@@ -2,13 +2,10 @@
 
 namespace App\Providers;
 
-use App\Http\Controllers\VehicleController;
 use Illuminate\Support\ServiceProvider;
 
-use App\Repository\Interfaces\EloquentRepositoryInterface;
 use App\Repository\Interfaces\VehicleExtensionRepositoryInterface;
 use App\Repository\BaseRepository;
-use App\Repository\VehicleRepository;
 
 /** 
  * Class RepositoryServiceProvider 
