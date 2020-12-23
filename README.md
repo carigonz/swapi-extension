@@ -39,3 +39,4 @@ Start Server.
 Enjoy!
 
 ### [API Documentation](https://drive.google.com/file/d/16AkkX8KQnAfoHSnN72i_ZV4YSVWk-Do7/view?usp=sharing)
+### [Original API Documentation](https://swapi.dev/documentation)
